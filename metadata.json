@@ -1,0 +1,6 @@
+{
+  "name": "Interactive AI Tool — Flam Internship Assignment",
+  "description": "AI-powered structured UI generator with Study Assistant, Recipe Builder, and Trip Planner tools, featuring robust JSON schema parsing, error resilience, and key proxying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
